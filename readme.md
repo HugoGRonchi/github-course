@@ -12,3 +12,7 @@ Nova alteração, sem save.
 
 
 cmmitando errado, mas agora concertado.
+
+
+
+commitando via remoto, pra mostrar q tu sabe.
