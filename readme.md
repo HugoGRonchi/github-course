@@ -16,3 +16,6 @@ cmmitando errado, mas agora concertado.
 
 
 commitando via remoto, pra mostrar q tu sabe.
+
+
+Alterando e commitando remoto.
